@@ -3,5 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 วิธีใช้ <br>
 npm install <br>
 npm start<br>
-screenshort<br>
-![alt text](https://www.img.in.th/image/NoKS)
+[screenshort](https://www.img.in.th/image/NoKS)<br>
